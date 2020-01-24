@@ -1,27 +1,29 @@
-##Project title
+# README
+
+## Project title
 
 Boris Bikes
 
-##Motivation
+## Motivation
 
 This project creates a digital network of bikes within the London metropolitan area.
 This project uses basic Javascript
 I made it. Wish me luck...
 
-##Build status
+## Build status
 
 Design
 
-##Screenshots
+## Screenshots
 
-##None yet
+## None yet
 
-##Code Example
+## Code Example
 
-##Tests
+## Tests
 
-##How to use?
+## How to use?
 
-##Credits
+## Credits
 
 Makers' Academy
